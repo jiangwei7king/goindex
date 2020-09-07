@@ -20,7 +20,7 @@ classic: [https://indexc.gd.workers.dev/](https://indexc.gd.workers.dev/)
 6.Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
 
 ## Quick Deployment  
-1.Open https://installen.gd.workers.dev/  
+1.Open https://gdindex-code-builder.glitch.me/  
 2.Auth and get the code  
 3.Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)  
 
